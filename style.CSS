@@ -1,0 +1,72 @@
+div img{
+    width: 40px;
+}
+div p{
+    font-size: 25px;
+}
+p img{
+    width: 40px;
+}
+body{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.gerebku{
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    color: white ;
+}
+header h1{
+    color: greenyellow ;
+}
+h1{
+    color: greenyellow ;
+}
+header img{
+    height: 200px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+main{
+    border: 7px solid greenyellow;
+    border-radius: 20px;
+}
+.img{
+    width: 400px ;
+    height: 200px ;
+    display: block;
+    margin: 0 auto;
+}
+header{
+    border-radius: 20px;
+}
+.plase{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    border: 3px solid red;
+    color: white ;
+    background-color: red;
+    border-radius: 20px;
+    margin-left: 470px;
+}
+.xsport{
+    display: block;
+    margin: 0 auto;
+}
+body{
+    font-family: monospace;
+}
