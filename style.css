@@ -48,6 +48,7 @@ main{
 }
 header{
     border-radius: 20px;
+    text-align: center;
 }
 .plase{
     display: block;
@@ -61,8 +62,6 @@ a{
     color: white ;
     background-color: red;
     border-radius: 20px;
-    margin-left: 600px;
-    text-align: center;
 }
 .xsport{
     display: block;
